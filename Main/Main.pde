@@ -6,6 +6,7 @@ IntList state;
 boolean stable;
 
 void setup(){
+    //Test
     size(600, 600);
     frameRate(60);
 
